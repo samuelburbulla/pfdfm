@@ -1,0 +1,4 @@
+CMAKE_FLAGS=" \
+  -DCMAKE_BUILD_TYPE=Release \
+  -DUSE_OPENMP=0 \
+"
